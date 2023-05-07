@@ -28,5 +28,5 @@ PRODUCT_PROPERTY_OVERRIDES += telephony.lteOnGSMDevice=1
 $(call inherit-product, vendor/omni/config/gsm.mk)
 
 # Override Product Name for OmniROM
-PRODUCT_NAME := omni_sumire
+PRODUCT_NAME := sumire
 PRODUCT_MODEL := Xperia Z5
