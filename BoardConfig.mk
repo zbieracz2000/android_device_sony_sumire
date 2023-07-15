@@ -12,6 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+include device/sony/kitakami-common/PlatformConfigOmni.mk
+
 TARGET_BOOTLOADER_BOARD_NAME := E6653
 
 WIFI_BUS := PCIE
